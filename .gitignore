@@ -18,3 +18,7 @@
 /.dir-locals.el
 /log_*
 /*.zip
+/.opencode_tmp/
+/AGENTS.md
+/backup/
+.opencode_tmp
